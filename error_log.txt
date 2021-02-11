@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "c:\Scripts\PythonLearning\raise_example.py", line 16, in <module>
+    raise Exception('This is an error message')
+Exception: This is an error message
+Traceback (most recent call last):
+  File "c:\Scripts\PythonLearning\raise_example.py", line 16, in <module>
+    raise Exception('This is an error message')
+Exception: This is an error message
