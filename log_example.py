@@ -12,5 +12,5 @@ def factorial(n):
     logging.critical('Return value is %s' % (total))
     return total
 
-print(factorial(5))
+print(factorial())
 logging.debug('End of program')
